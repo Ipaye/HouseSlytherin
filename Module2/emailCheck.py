@@ -6,12 +6,16 @@
 #  Then print out a count at the end.
 # Hint: make sure not to include the lines that start with 'From:'.
 
-fname = input("Enter file name: ")
-if len(fname) < 1:
-    fname = "mbox-short.txt"
 count = 0
+fname = input("Enter file name: ")
+# if len(fname) < 1:
+try:
+    # fname = "mbox-short.txt"
+    fh = open(fname)
+except:
+    print('unable to open file:', fname)
+    exit()
 
-fh = open(fname)
 for lines in fh:
     if not lines.startswith("From: "):
         continue

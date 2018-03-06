@@ -9,9 +9,12 @@ largest = -1
 emailTBF = None
 
 fhand = input('Enter in the file Name: ')
-if len(fhand) < 1:
-    fhand = "mbox-short.txt"
-emailFile = open(fhand)
+# if len(fhand) < 1:
+try:
+    emailFile = open(fhand)
+except:
+    print('File cannot be opened:', fhand)
+    exit()
 
 for emailLines in emailFile:
     if not emailLines.startswith("From: "):
