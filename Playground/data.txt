@@ -1,0 +1,17 @@
+ck and pale with grief
+Mon, 26 Mar 2018 22:51:47 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Last-Modified: Sat, 13 May 2017 11:22:22 GMT
+ETag: "a7-54f6609245537"
+Accept-Ranges: bytes
+Content-Length: 167
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Connection: close
+Content-Type: text/plain
+
+But soft what light through yonder window breaks
+It is the east and Juliet is the sun
+Arise fair sun and kill the envious moon
+Who is already si
