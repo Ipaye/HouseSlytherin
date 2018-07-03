@@ -29,3 +29,4 @@ tempArr = sorted(tempArr, reverse=False)
 
 for k, v in tempArr:
     print(k, v)
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Coursera_DB" uuid="274c9b6e-f31c-437c-91e7-f33d23567b8f">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <introspection-schemas>*:</introspection-schemas>
+    </data-source>
+    <data-source name="Coursera_DB [2]" uuid="8e42bb3b-f1ac-49d4-8d21-8279b5bd27a4">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="Coursera_DB [3]" uuid="1c3e6187-943a-44ac-ac00-b84be1dc92f7">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+  </component>
+</project>

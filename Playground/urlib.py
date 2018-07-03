@@ -37,4 +37,4 @@ def countWordsInWedpage(url):
     print(wordCount)
 
 
-print(countWordsInWedpage('http://data.pr4e.org/romeo.txt'))
+print(countWordsInWedpage('http://ipaye.me'))

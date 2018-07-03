@@ -1,1 +1,1 @@
-print('The order of the alphabet is ', ord('E'))
+print('The order of the alphabet is ', ord('e'))
