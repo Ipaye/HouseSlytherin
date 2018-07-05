@@ -24,7 +24,6 @@ if count == 18:
     linkArr.append(link.get('href', None))
     arr.append(link.contents[0])
 count += 1
-
 print(arr)
 print(linkArr)
 
